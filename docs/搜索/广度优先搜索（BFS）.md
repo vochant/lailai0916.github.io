@@ -4,7 +4,7 @@
 
 ### P1141 01迷宫
 
-```c++
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -63,4 +63,3 @@ int main()
 	return 0;
 }
 ```
-

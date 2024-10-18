@@ -4,7 +4,7 @@
 
 ### P1706 全排列问题
 
-```c++
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -43,4 +43,3 @@ int main()
 	return 0;
 }
 ```
-
