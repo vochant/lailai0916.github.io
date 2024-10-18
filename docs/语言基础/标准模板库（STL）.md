@@ -33,7 +33,7 @@
 - `empty()` 检查容器适配器是否为空
 - `size()` 返回元素数
 
-### std::deque
+## std::deque
 
 访问
 
