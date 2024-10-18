@@ -112,35 +112,37 @@ const config = {
         },
         items: [
           {
-            // type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            type: 'docSidebar',
+            sidebarId: 'd1',
             position: 'left',
             // label: 'Tutorial',
             label: '文档1',
-            to: '/docs/动态规划/树形%20DP',
+            to: '/docs/d1/动态规划/树形%20DP',
           },
           {
             // type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'd2',
             position: 'left',
             // label: 'Tutorial',
             label: '文档2',
-            to: '/docs/数学/封装/分数'
+            to: '/docs/d2/算法基础/二分查找'
           },
              {
-            // type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            type: 'docSidebar',
+            sidebarId: 'd3',
             position: 'left',
             // label: 'Tutorial',
             label: '文档3',
-               to: '/docs/算法基础/二分查找',
+               to: '/docs/d3/数学/快速傅立叶变换',
           },
 
           {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/lailai0916/lailai0916.github.io',
-            label: 'GitHub',
+            // label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            // 'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -194,6 +196,28 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+
+  themes: [
+    // ... Your other themes.
+    [
+        // 本地搜索
+        // https://github.com/easyops-cn/docusaurus-search-local
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      }),
+    ],
+  ],
+
+
 };
 
 export default config;
