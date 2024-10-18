@@ -14,7 +14,7 @@ import rehypeKatex from 'rehype-katex';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'lailai\'s Blog',
-  tagline: 'Dinosaurs are cool',
+  tagline: '光锥之内，就是命运。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
