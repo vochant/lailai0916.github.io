@@ -112,14 +112,33 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
+            // type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            // label: 'Tutorial',
+            label: '文档1',
+            to: '/docs/动态规划/树形%20DP',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            // type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            // label: 'Tutorial',
+            label: '文档2',
+            to: '/docs/数学/封装/分数'
+          },
+             {
+            // type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            // label: 'Tutorial',
+            label: '文档3',
+               to: '/docs/算法基础/二分查找',
+          },
+
+          {to: '/blog', label: '博客', position: 'left'},
+          {
+            href: 'https://github.com/lailai0916/lailai0916.github.io',
             label: 'GitHub',
             position: 'right',
           },
