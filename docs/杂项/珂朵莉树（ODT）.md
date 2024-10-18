@@ -8,7 +8,7 @@
 
 ### 保存结点
 
-```c++
+```cpp
 struct Node
 {
 	int l,r;
@@ -20,7 +20,7 @@ set<Node> s;
 
 ### 插入结点
 
-```c++
+```cpp
 s.insert({l,r,v});
 ```
 
@@ -28,7 +28,7 @@ s.insert({l,r,v});
 
 把包含 $x$ 的区间 $[l,r]$ 区间分裂成 $[l,x-1]$ 和 $[x,r]$ ，并返回 $[x,r]$ 的迭代器
 
-```c++
+```cpp
 auto split(int x)
 {
 	auto it=s.lower_bound({x,0,0});
@@ -49,7 +49,7 @@ auto split(int x)
 
 若先 split 左端点，返回的迭代器可能在 split 右端点的时候失效，可能会导致 RE
 
-```c++
+```cpp
 void cover(int l,int r,ll v)
 {
 	auto it2=split(r+1),it1=split(l);
@@ -60,7 +60,7 @@ void cover(int l,int r,ll v)
 
 ### add
 
-```c++
+```cpp
 void add(int l,int r,ll v)
 {
 	auto it2=split(r+1),it1=split(l);
@@ -70,7 +70,7 @@ void add(int l,int r,ll v)
 
 ### sum
 
-```c++
+```cpp
 ll sum(int l,int r)
 {
 	auto it2=split(r+1),it1=split(l);
@@ -186,4 +186,3 @@ int main()
 	return 0;
 }
 ```
-
