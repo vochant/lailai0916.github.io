@@ -13,7 +13,7 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lailai\'s Blog',
+  title: 'lailai\'s Blog',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -31,7 +31,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lailai0916', // Usually your GitHub org/user name.
-  projectName: 'Lailai\'s Blog', // Usually your repo name.
+  projectName: 'lailai\'s Blog', // Usually your repo name.
   trailingSlash: false,
 
 
