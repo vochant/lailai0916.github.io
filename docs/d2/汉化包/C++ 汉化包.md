@@ -23,6 +23,7 @@
 #define 有符号 signed
 #define 无符号 unsigned
 #define 内联 inline
+#define 寄存器 register
 ```
 
 ## 关键词
