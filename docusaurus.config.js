@@ -116,7 +116,7 @@ const config = {
             sidebarId: 'd1',
             position: 'left',
             // label: 'Tutorial',
-            label: '竞赛',
+            label: '数学',
             to: '/docs/d1',
           },
           {
@@ -124,7 +124,7 @@ const config = {
             sidebarId: 'd2',
             position: 'left',
             // label: 'Tutorial',
-            label: '项目',
+            label: '竞赛',
             to: '/docs/d2'
           },
           {
@@ -132,7 +132,7 @@ const config = {
             sidebarId: 'd3',
             position: 'left',
             // label: 'Tutorial',
-            label: '其他',
+            label: '项目',
             to: '/docs/d3',
           },
 
@@ -152,15 +152,15 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '竞赛',
+                label: '数学',
                 to: '/docs/d1',
               },
               {
-                label: '项目',
+                label: '竞赛',
                 to: '/docs/d2',
               },
               {
-                label: '其他',
+                label: '项目',
                 to: '/docs/d3',
               },
             ],
