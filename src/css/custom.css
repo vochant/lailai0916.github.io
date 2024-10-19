@@ -47,21 +47,7 @@
   background-color: var(--ifm-navbar-link-hover-color);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* 设置代码块的 Tab 宽度为 4 个空格 */
+pre, code {
+  tab-size: 4;
+}
