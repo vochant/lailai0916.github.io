@@ -2,7 +2,7 @@ lailai:
   name: lailai
   title: Owner of the Blog
   url: https://www.lailai.one
-  image_url: https://github.com/lailai0916.png
+  image_url: ../static/img/lailai.svg
   page: true
   socials:
     x: lailai0x394
