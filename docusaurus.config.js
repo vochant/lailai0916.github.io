@@ -147,7 +147,6 @@ const config = {
         ],
       },
       footer: {
-        // style: 'dark',
         links: [
           {
             title: '文档',
