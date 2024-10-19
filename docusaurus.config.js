@@ -153,8 +153,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: '竞赛',
+                to: '/docs/d1',
+              },
+              {
+                label: '项目',
+                to: '/docs/d2',
+              },
+              {
+                label: '其他',
+                to: '/docs/d3',
               },
             ],
           },
@@ -176,20 +184,20 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: '更多',
             items: [
               {
-                label: 'Blog',
+                label: '博客',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/lailai0916/lailai0916.github.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} lailai0916. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
