@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors: lailai
+authors: lailai0916
 tags: [hello, docusaurus]
 ---
 
