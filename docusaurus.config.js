@@ -133,7 +133,7 @@ const config = {
             position: 'left',
             // label: 'Tutorial',
             label: '文档3',
-               to: '/docs/d3/数学/快速傅立叶变换',
+            to: '/docs/d3/数学/快速傅立叶变换',
           },
 
           {to: '/blog', label: '博客', position: 'left'},
