@@ -3,10 +3,12 @@ lailai:
   title: Owner of the Blog
   url: https://www.lailai.one
   image_url: https://github.com/lailai0916.png
+  email: lailai0x394@gmail.com
   page: true
   socials:
     x: lailai0x394
     github: lailai0916
+    linkedin: 
 
 sintle:
   name: sintle
