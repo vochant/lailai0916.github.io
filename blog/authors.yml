@@ -1,28 +1,17 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
-
-lailai0916:
+lailai:
   name: lailai
   title: Owner of the Blog
+  url: https://www.lailai.one
   image_url: https://github.com/lailai0916.png
+  page: true
+  socials:
+    x: lailai0x394
+    github: lailai0916
+
+sintle:
+  name: sintle
+  title: One of lailai's Believers
+  url: https://www.luogu.com.cn/user/681591
+  image_url: https://cdn.luogu.com.cn/upload/usericon/681591.png
+  page: true
+  
