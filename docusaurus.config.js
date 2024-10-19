@@ -150,7 +150,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: '文档',
             items: [
               {
                 label: '竞赛',
@@ -167,19 +167,19 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'QQ',
+                href: 'http://wpa.qq.com/msgrd?v=3&uin=11548585&site=qq&menu=yes',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '洛谷',
+                href: 'https://www.luogu.com.cn/user/455474',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Telegram',
+                href: 'https://t.me/lailai0916',
               },
             ],
           },
