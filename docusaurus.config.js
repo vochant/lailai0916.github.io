@@ -190,6 +190,10 @@ const config = {
                 to: '/blog',
               },
               {
+                label: '作者',
+                to: '/blog/authors',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/lailai0916/lailai0916.github.io',
               },
