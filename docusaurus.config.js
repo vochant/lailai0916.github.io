@@ -116,24 +116,24 @@ const config = {
             sidebarId: 'd1',
             position: 'left',
             // label: 'Tutorial',
-            label: '文档1',
-            to: '/docs/d1/动态规划/树形%20DP',
+            label: '竞赛',
+            to: '/docs/d1',
           },
           {
-            // type: 'docSidebar',
+            type: 'docSidebar',
             sidebarId: 'd2',
             position: 'left',
             // label: 'Tutorial',
-            label: '文档2',
-            to: '/docs/d2/算法基础/二分查找'
+            label: '项目',
+            to: '/docs/d2'
           },
-             {
+          {
             type: 'docSidebar',
             sidebarId: 'd3',
             position: 'left',
             // label: 'Tutorial',
-            label: '文档3',
-            to: '/docs/d3/数学/快速傅立叶变换',
+            label: '其他',
+            to: '/docs/d3',
           },
 
           {to: '/blog', label: '博客', position: 'left'},
