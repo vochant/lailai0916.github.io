@@ -1,5 +1,5 @@
 welcome:
-  label: 你好
+  label: 欢迎
   permalink: /welcome
   description: Welcome tag description
 
@@ -7,3 +7,8 @@ solution:
   label: 题解
   permalink: /solution
   description: Solution tag description
+
+luogu:
+  label: 洛谷
+  permalink: /luogu
+  description: Luogu tag description
