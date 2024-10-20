@@ -1,0 +1,12 @@
+void Day()
+{
+	while(true)
+	{
+		Debug();
+		if(Die())exit(0);
+		if(Time>=Time+1)break;
+        Time++;
+	}
+	Sleep();
+	Date++;
+}
