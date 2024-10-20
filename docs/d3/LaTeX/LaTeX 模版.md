@@ -1,0 +1,80 @@
+# LaTeX 模版
+
+## 求和
+
+$$
+\displaystyle\sum_{i=1}^{n}a_i
+$$
+
+## 积分
+
+$$
+\displaystyle\int_{a}^{b}f(x)dx
+$$
+
+## 极限
+
+$$
+\displaystyle\lim_{x\to\infty}f(x)
+$$
+
+## 递等式
+
+$$
+\begin{align*}
+  f(x) &= a_1 \\
+  &= a_2 \\
+  &= a_3 \\
+  &= \dotsb \\
+  &= a_n
+\end{align*}
+$$
+
+## 分段函数
+
+$$
+f(x) = \begin{cases}
+  a_1 & x>0 \\
+  a_2 & x=0 \\
+  a_3 & x<0
+\end{cases}
+$$
+
+## 线性方程组
+
+$$
+\begin{cases}
+  a_1x+b_1y+c_1z=d_1 \\
+  a_2x+b_2y+c_2z=d_2 \\
+  a_3x+b_3y+c_3z=d_3 \\
+\end{cases}
+$$
+
+## 多行公式
+
+$$
+\begin{align*}
+  & a_1=b_1 \\
+  & a_2=b_2
+\end{align*}
+$$
+
+## 矩阵
+
+$$
+\begin{bmatrix}
+  1 & 0 & \cdots & 0 \\
+  0 & 1 & \cdots & 0 \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0 & 0 & \cdots & 1
+\end{bmatrix}
+$$
+
+$$
+\begin{pmatrix}
+  1 & 0 & \cdots & 0 \\
+  0 & 1 & \cdots & 0 \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0 & 0 & \cdots & 1
+\end{pmatrix}
+$$
