@@ -1,6 +1,6 @@
 lailai:
   name: lailai
-  title: Owner of the Blog
+  title: 博主
   url: https://www.lailai.one
   image_url: https://cdn.luogu.com.cn/upload/usericon/455474.png
   page: true
@@ -23,7 +23,7 @@ sintle:
 
 yunluo:
   name: YunLuo
-  title: 小鸟游星野天下第一！！！
+  title: 人
   url: https://www.luogu.com.cn/user/765961
   image_url: https://cdn.luogu.com.cn/upload/usericon/765961.png
   page: true
