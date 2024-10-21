@@ -93,14 +93,16 @@ $$
 ```latex
 \begin{align*}
   & a_1=b_1 \\
-  & a_2=b_2
+  & a_2=b_2 \\
+  & a_3=b_3
 \end{align*}
 ```
 
 $$
 \begin{align*}
   & a_1=b_1 \\
-  & a_2=b_2
+  & a_2=b_2 \\
+  & a_3=b_3
 \end{align*}
 $$
 

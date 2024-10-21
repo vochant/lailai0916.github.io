@@ -1,4 +1,4 @@
-# ST 表（Sparse Table）
+# ST 表
 
 ## 模版
 
