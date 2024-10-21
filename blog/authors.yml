@@ -12,7 +12,7 @@ lailai:
 
 sintle:
   name: sintle
-  title: One of lailai's Believers
+  title: The oldest and strongest emotion of mankind is fear; and the oldest and strongest kind of fear is fear of the unknown.‌
   url: https://www.luogu.com.cn/user/681591
   image_url: https://cdn.luogu.com.cn/upload/usericon/681591.png
   page: true
@@ -29,3 +29,4 @@ yunluo:
   page: true
   socials:
     newsletter: https://www.luogu.com.cn/user/765961
+
