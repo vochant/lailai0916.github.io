@@ -121,21 +121,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'oi',
+            sidebarId: 'docs1',
             position: 'left',
             label: '竞赛',
             to: '/docs/竞赛'
           },
           {
             type: 'docSidebar',
-            sidebarId: 'math',
+            sidebarId: 'docs2',
             position: 'left',
             label: '数学',
             to: '/docs/数学',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'project',
+            sidebarId: 'docs3',
             position: 'left',
             label: '项目',
             to: '/docs/项目',
