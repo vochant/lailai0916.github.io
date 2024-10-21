@@ -1,3 +1,8 @@
+top:
+  label: 置顶
+  permalink: /top
+  description: Top tag description
+
 welcome:
   label: 欢迎
   permalink: /welcome
