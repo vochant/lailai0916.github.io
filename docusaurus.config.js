@@ -141,7 +141,6 @@ const config = {
             label: '项目',
             to: '/docs/d3',
           },
-
           {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/lailai0916/lailai0916.github.io',
