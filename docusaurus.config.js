@@ -121,25 +121,22 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: '竞赛',
+            sidebarId: 'oi',
             position: 'left',
-            // label: 'Tutorial',
             label: '竞赛',
             to: '/docs/竞赛'
           },
           {
             type: 'docSidebar',
-            sidebarId: '数学',
+            sidebarId: 'math',
             position: 'left',
-            // label: 'Tutorial',
             label: '数学',
             to: '/docs/数学',
           },
           {
             type: 'docSidebar',
-            sidebarId: '项目',
+            sidebarId: 'project',
             position: 'left',
-            // label: 'Tutorial',
             label: '项目',
             to: '/docs/项目',
           },
