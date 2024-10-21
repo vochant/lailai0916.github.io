@@ -125,7 +125,7 @@ const config = {
             position: 'left',
             // label: 'Tutorial',
             label: '数学',
-            to: '/docs/d1',
+            to: '/docs/数学',
           },
           {
             type: 'docSidebar',
@@ -133,7 +133,7 @@ const config = {
             position: 'left',
             // label: 'Tutorial',
             label: '竞赛',
-            to: '/docs/d2'
+            to: '/docs/竞赛'
           },
           {
             type: 'docSidebar',
@@ -141,7 +141,7 @@ const config = {
             position: 'left',
             // label: 'Tutorial',
             label: '项目',
-            to: '/docs/d3',
+            to: '/docs/项目',
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
@@ -160,15 +160,15 @@ const config = {
             items: [
               {
                 label: '数学',
-                to: '/docs/d1',
+                to: '/docs/数学',
               },
               {
                 label: '竞赛',
-                to: '/docs/d2',
+                to: '/docs/竞赛',
               },
               {
                 label: '项目',
-                to: '/docs/d3',
+                to: '/docs/项目',
               },
             ],
           },
