@@ -121,7 +121,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'd1',
+            sidebarId: '竞赛',
             position: 'left',
             // label: 'Tutorial',
             label: '竞赛',
@@ -129,7 +129,7 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'd2',
+            sidebarId: '数学',
             position: 'left',
             // label: 'Tutorial',
             label: '数学',
@@ -137,7 +137,7 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'd3',
+            sidebarId: '项目',
             position: 'left',
             // label: 'Tutorial',
             label: '项目',
