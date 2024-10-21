@@ -74,6 +74,8 @@ const config = {
 
 
           showReadingTime: true,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '博客列表',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
