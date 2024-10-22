@@ -1,8 +1,8 @@
 lailai:
   name: lailai
-  title: 博主
+  title: 博主qwq
   description: 光锥之内，就是命运。
-  image_url: /static/avatar/lailai.png
+  image_url: /avatar/lailai.png
   page: true
   socials:
     x: lailai0x394
@@ -33,7 +33,7 @@ akorz:
   name: AKorz
   title: I↑ must↓ be↑ the↓ reason↑ why↓
   description: face the sin,save the e.g.o.
-  image_url: https://cdn.luogu.com.cn/upload/usericon/716602.png
+  image_url: /avatar/akorz.png
   page: true
   socials:
     Luogu: https://www.luogu.com.cn/user/716602
