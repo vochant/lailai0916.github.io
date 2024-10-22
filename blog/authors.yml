@@ -2,7 +2,7 @@ lailai:
   name: lailai
   title: 博主
   description: 光锥之内，就是命运。qwq
-  image_url: /avatar/lailai.png
+  image_url: static/avatar/lailai.png
   page: true
   socials:
     x: lailai0x394
@@ -41,6 +41,7 @@ akorz:
 mirekintoc:
   name: Mirekintoc
   title: 项目人
+  description: Zako Chuugaku Sannensei OIer & Personal Developer
   image_url: https://cdn.luogu.com.cn/upload/usericon/556000.png
   page: true
   socials:
