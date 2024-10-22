@@ -13,8 +13,8 @@ lailai:
 sintle:
   name: sintle
   title: 星之彩
+  url: https://www.luogu.com.cn/user/681591
   image_url: /avatar/sintle.png
-  page: true
   socials:
     x: sintle2010
     github: sintle
@@ -23,8 +23,8 @@ sintle:
 yunluo:
   name: YunLuo
   title: 人
+  url: https://www.luogu.com.cn/user/765961
   image_url: /avatar/yunluo.png
-  page: true
   socials:
     github: YunLuow
     Luogu: https://www.luogu.com.cn/user/765961
@@ -33,8 +33,8 @@ akorz:
   name: AKorz
   title: I↑ must↓ be↑ the↓ reason↑ why↓
   description: face the sin,save the e.g.o.
+  url: https://www.luogu.com.cn/user/716602
   image_url: /avatar/akorz.png
-  page: true
   socials:
     Luogu: https://www.luogu.com.cn/user/716602
 
@@ -42,8 +42,8 @@ mirekintoc:
   name: Mirekintoc
   title: 项目人
   description: Zako Chuugaku Sannensei OIer & Personal Developer
+  url: https://www.luogu.com.cn/user/556000
   image_url: /avatar/mirekintoc.png
-  page: true
   socials:
     x: mirekintoc
     github: vochant
