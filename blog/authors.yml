@@ -1,8 +1,8 @@
 lailai:
   name: lailai
   title: 博主
-  description: 光锥之内，就是命运。qwq
-  image_url: static/avatar/lailai.png
+  description: 光锥之内，就是命运。
+  image_url: /static/avatar/lailai.png
   page: true
   socials:
     x: lailai0x394
