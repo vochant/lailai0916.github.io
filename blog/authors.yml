@@ -8,25 +8,31 @@ lailai:
     x: lailai0x394
     linkedin: lailai0916
     github: lailai0916
-    luogu: https://www.lailai.one
+    Luogu: https://www.luogu.com.cn/user/455474
 
 sintle:
   name: sintle
   title: 星之彩
-  url: https://www.luogu.com.cn/user/681591
   image_url: https://cdn.luogu.com.cn/upload/usericon/681591.png
   page: true
   socials:
     x: sintle2010
     github: sintle
-    newsletter: https://www.luogu.com.cn/user/681591
+    Luogu: https://www.luogu.com.cn/user/681591
 
 yunluo:
   name: YunLuo
   title: 人
-  url: https://www.luogu.com.cn/user/765961
   image_url: https://cdn.luogu.com.cn/upload/usericon/765961.png
   page: true
   socials:
     github: YunLuow
-    newsletter: https://www.luogu.com.cn/user/765961
+    Luogu: https://www.luogu.com.cn/user/765961
+
+akorz:
+  name: AKorz
+  title: I↑ must↓ be↑ the↓ reason↑ why↓
+  image_url: https://cdn.luogu.com.cn/upload/usericon/716602.png
+  page: true
+  socials:
+    Luogu: https://www.luogu.com.cn/user/716602
