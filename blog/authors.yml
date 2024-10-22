@@ -3,10 +3,6 @@ lailai:
   title: 博主
   url: https://www.lailai.one
   image_url: https://cdn.luogu.com.cn/upload/usericon/455474.png
-  email: john.doe@example.com
-  location: San Francisco, CA
-  organization: Acme Inc.
-  organization_url: https://acme.com.com
   description: Passionate developer focused on open-source projects.
   page: true
   socials:
