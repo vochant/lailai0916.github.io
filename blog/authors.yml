@@ -2,7 +2,7 @@ lailai:
   name: lailai
   title: 博主
   description: 光锥之内，就是命运。
-  url: /avatar/lailai.svg
+  url: avatar/lailai.svg
   image_url: https://cdn.luogu.com.cn/upload/usericon/455474.png
   page: true
   socials:
