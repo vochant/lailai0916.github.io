@@ -204,7 +204,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} lailai0916. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} lailai0916. Built with <a href="https://docusaurus.io/" target="_blank">Docusaurus</a>.`,
       },
       prism: {
         theme: prismThemes.github,
