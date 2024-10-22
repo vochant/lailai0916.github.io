@@ -13,7 +13,7 @@ lailai:
 sintle:
   name: sintle
   title: 星之彩
-  image_url: https://cdn.luogu.com.cn/upload/usericon/681591.png
+  image_url: /avatar/sintle.png
   page: true
   socials:
     x: sintle2010
@@ -23,7 +23,7 @@ sintle:
 yunluo:
   name: YunLuo
   title: 人
-  image_url: https://cdn.luogu.com.cn/upload/usericon/765961.png
+  image_url: /avatar/yunluo.png
   page: true
   socials:
     github: YunLuow
@@ -42,7 +42,7 @@ mirekintoc:
   name: Mirekintoc
   title: 项目人
   description: Zako Chuugaku Sannensei OIer & Personal Developer
-  image_url: https://cdn.luogu.com.cn/upload/usericon/556000.png
+  image_url: /avatar/mirekintoc.png
   page: true
   socials:
     x: mirekintoc
