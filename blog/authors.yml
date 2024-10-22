@@ -36,3 +36,13 @@ akorz:
   page: true
   socials:
     Luogu: https://www.luogu.com.cn/user/716602
+
+mirekintoc:
+  name: Mirekintoc
+  title: 项目人
+  image_url: https://cdn.luogu.com.cn/upload/usericon/556000.png
+  page: true
+  socials:
+    x: mirekintoc
+    github: vochant
+    Luogu: https://www.luogu.com.cn/user/556000
