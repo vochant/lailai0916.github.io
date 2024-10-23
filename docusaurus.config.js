@@ -235,4 +235,11 @@ const config = {
 
 };
 
+module.exports = {
+  themeConfig: {
+    // highlight-starrt
+    hideableSidebar: true,
+  },
+};
+
 export default config;
