@@ -105,14 +105,11 @@ const config = {
       crossorigin: 'anonymous',
     },
   ],
-
-  themeConfig: {
-    hideableSidebar: true,
-  }
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      hideableSidebar: true,
       image: 'img/logo.svg',
       navbar: {
         title: 'lailai\'s Blog',
