@@ -111,7 +111,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'avatar/lailai.png',
+      image: 'img/logo.svg',
       // hideableSidebar: true,
       navbar: {
         title: 'lailai\'s Blog',
