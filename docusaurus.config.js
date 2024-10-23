@@ -106,7 +106,9 @@ const config = {
     },
   ],
 
-
+  themeConfig: {
+    hideableSidebar: true,
+  }
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
