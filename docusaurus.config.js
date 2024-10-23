@@ -114,7 +114,6 @@ const config = {
       image: 'img/logo.svg',
       sidebar: {
         hideable: true,
-        autoCollapseCategories: true,
       },
       navbar: {
         title: 'lailai\'s Blog',
