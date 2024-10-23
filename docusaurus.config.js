@@ -112,9 +112,6 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/logo.svg',
-      sidebar: {
-        hideable: true,
-      },
       navbar: {
         title: 'lailai\'s Blog',
         logo: {
