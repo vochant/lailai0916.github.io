@@ -112,6 +112,10 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/logo.svg',
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
       navbar: {
         title: 'lailai\'s Blog',
         logo: {
@@ -233,13 +237,6 @@ const config = {
   ],
 
 
-};
-
-module.exports = {
-  themeConfig: {
-    // highlight-starrt
-    hideableSidebar: true,
-  },
 };
 
 export default config;
