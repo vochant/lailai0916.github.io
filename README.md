@@ -1,6 +1,6 @@
 # lailai's Blog
 
-该网站使用 [Docusaurus](https://docusaurus.io/), a modern static website generator.
+该网站使用 [Docusaurus](https://docusaurus.io/) 构建.
 
 ### Installation
 
