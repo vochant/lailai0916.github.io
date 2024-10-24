@@ -10,6 +10,16 @@ $$
 \sum_{i=1}^{n} a_i
 $$
 
+##
+
+```latex
+\frac{\mathrm{d}}{\mathrm{d}x} f(x)
+```
+
+$$
+\frac{\mathrm{d}}{\mathrm{d}x} f(x)
+$$
+
 ## 积分
 
 ```latex
