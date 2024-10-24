@@ -3,6 +3,7 @@
 ## 参考资料
 
 - [Supported Functions - KaTeX](https://katex.org/docs/supported.html)
+- [在线LaTeX公式编辑器](https://www.latexlive.com)
 
 ## 基础知识
 
