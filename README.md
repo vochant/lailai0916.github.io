@@ -1,6 +1,6 @@
-# Website
+# lailai's Blog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+该网站使用 [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
