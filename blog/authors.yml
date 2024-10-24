@@ -24,8 +24,9 @@ sintle:
 yunluo:
   name: YunLuo
   title: 人
-  url: https://www.luogu.com.cn/user/765961
+  description: 这是个人
   image_url: /img/avatar/yunluo.png
+  page: true
   socials:
     github: YunLuow
     Luogu: https://www.luogu.com.cn/user/765961
@@ -33,16 +34,18 @@ yunluo:
 akorz:
   name: AKorz
   title: I↑ must↓ be↑ the↓ reason↑ why↓
-  url: https://www.luogu.com.cn/user/716602
+  description: face the sin,save the e.g.o.
   image_url: /img/avatar/akorz.png
+  page: true
   socials:
     Luogu: https://www.luogu.com.cn/user/716602
 
 mirekintoc:
   name: Mirekintoc
   title: 项目人
-  url: https://www.luogu.com.cn/user/556000
+  description: Zako Chuugaku Sannensei OIer & Personal Developer
   image_url: /img/avatar/mirekintoc.png
+  page: true
   socials:
     x: mirekintoc
     github: vochant
