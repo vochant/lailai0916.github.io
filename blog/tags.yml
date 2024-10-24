@@ -19,6 +19,6 @@ luogu:
   description: Luogu tag description
 
 codeforces:
-  label: CodeForces
+  label: Codeforces
   permalink: /codeforces
   description: Codeforces tag description
