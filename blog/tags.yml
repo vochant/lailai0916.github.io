@@ -19,6 +19,6 @@ luogu:
   description: Luogu tag description
 
 codeforces:
-  labe: 潘旭
+  label: Codeforces
   permalink: /codeforces
   description: Codeforces tag description
