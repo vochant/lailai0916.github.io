@@ -17,3 +17,8 @@ luogu:
   label: 洛谷
   permalink: /luogu
   description: Luogu tag description
+
+codeforces:
+  labe: Codeforces
+  permalink: /codeforces
+  description: Codeforces tag description
