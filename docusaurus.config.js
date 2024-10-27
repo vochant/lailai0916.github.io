@@ -225,7 +225,16 @@ const config = {
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
         // language: ["en", "zh"],
+        // language:  "zh",
         // ```
+
+
+        language: ["en", "zh"], // 搜索语言
+        indexDocs: true, // 是否对docs进行索引
+        indexBlog: true, // 是否对blog进行索引
+        indexPages: false, // 是否对pages进行索引
+        docsRouteBasePath: ["/docs","/linux","/services"], //
+
       }),
     ],
   ],
