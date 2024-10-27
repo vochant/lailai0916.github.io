@@ -1,5 +1,7 @@
 # LaTeX 模板
 
+$\LaTeX$ 是一种基于 $\TeX$ 的排版系统，能够很方便的生成数学公式。
+
 ## 参考资料
 
 - [Supported Functions - KaTeX](https://katex.org/docs/supported.html)
