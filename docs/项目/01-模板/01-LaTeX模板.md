@@ -6,7 +6,7 @@ $\LaTeX$ 是一种基于 $\TeX$ 的排版系统，能够很方便的生成数学
 
 - [Supported Functions - KaTeX](https://katex.org/docs/supported.html)
 - [LaTeX 数学公式大全 - 洛谷专栏](https://www.luogu.com.cn/article/1gxob6zc)
-- [在线LaTeX公式编辑器](https://www.latexlive.com)
+- [在线 LaTeX 公式编辑器](https://www.latexlive.com)
 
 ## 基础知识
 
