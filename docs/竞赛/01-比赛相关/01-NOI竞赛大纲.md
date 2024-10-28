@@ -187,11 +187,11 @@
 	- 【 6 】类的概念及简单应用
 	- 【 6 】成员函数和运算符重载
 2. STL 模板
-	- 【 5 】容器（container）和迭代器（iterator）
-	- 【 5 】对（pair）、元组（tuple）
-	- 【 5 】集合（set）、多重集合（multiset）
-	- 【 5 】双端队列（deque）、优先队列（priority_queue）
-	- 【 5 】映射（map）、多重映射（multimap）
+	- 【 5 】容器（`container`）和迭代器（`iterator`）
+	- 【 5 】对（`pair`）、元组（`tuple`）
+	- 【 5 】集合（`set`）、多重集合（`multiset`）
+	- 【 5 】双端队列（`deque`）、优先队列（`priority_queue`）
+	- 【 5 】映射（`map`）、多重映射（`multimap`）
 	- 【 5 】算法模板库中的常用函数
 
 ### 2.3 数据结构
