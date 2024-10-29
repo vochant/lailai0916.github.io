@@ -196,12 +196,12 @@ const config = {
                 to: '/blog',
               },
               {
-                label: '作者',
-                to: '/blog/authors',
+                label: '友链',
+                to: '/friends',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/lailai0916/lailai0916.github.io',
+                label: '关于',
+                to: '/about',
               },
             ],
           },
