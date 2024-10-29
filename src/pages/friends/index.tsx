@@ -10,24 +10,7 @@ import styles from './styles.module.css'
 
 const TITLE = '友链'
 const DESCRIPTION = '财富易得，知己难求。'
-const ADD_FRIEND_URL = 'https://github.com/kuizuo/blog/edit/main/data/friends.tsx'
-const SITE_INFO = `
-title: '愧怍'
-description: '道阻且长，行则将至'
-website: 'https://kuizuo.cn'
-avatar: 'https://kuizuo.cn/img/logo.png'
-`
 const friends = Friends
-
-function SiteInfo() {
-  return (
-    <div className="w-96 rounded-[var(--ifm-pre-border-radius)] border border-black border-solid border-opacity-10 text-left text-sm leading-none">
-      <CodeBlock language="yaml" title="本站信息" className={styles.codeBlock} >
-        {SITE_INFO}
-      </CodeBlock>
-    </div>
-  )
-}
 
 function FriendHeader() {
   return (
