@@ -139,7 +139,10 @@ const config = {
             to: '/docs/项目',
           },
           {to: '/blog', label: '博客', position: 'left'},
+
           {to: '/friends', label: '友链', position: 'right'},
+          {to: '/about', label: '关于', position: 'right'},
+
           {
             href: 'https://github.com/lailai0916/lailai0916.github.io',
             // label: 'GitHub',
@@ -238,6 +241,21 @@ const config = {
 
       }),
     ],
+  ],
+
+
+  plugins: [
+    async function tailwindcssPlugin() {
+      return {
+        name: 'docusaurus-tailwindcss',
+        configurePostCss(postcssOptions) {
+          // Appends TailwindCSS and AutoPrefixer.
+          postcssOptions.plugins.push(require('tailwindcss'))
+          postcssOptions.plugins.push(require('autoprefixer'))
+          return postcssOptions
+        },
+      }
+    },
   ],
 
 

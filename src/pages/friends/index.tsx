@@ -88,9 +88,9 @@ export default function FriendLink(): JSX.Element {
       <motion.main ref={ref} className="my-4 friends-link-page">
         <FriendHeader />
         <FriendCards />
-        <motion.div drag dragConstraints={ref} className="sticky bottom-4 left-4 inline-flex cursor-move text-right">
+        {/*<motion.div drag dragConstraints={ref} className="sticky bottom-4 left-4 inline-flex cursor-move text-right">
           <SiteInfo />
-        </motion.div>
+        </motion.div>*/}
       </motion.main>
     </Layout>
   )
