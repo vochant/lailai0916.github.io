@@ -139,6 +139,7 @@ const config = {
             to: '/docs/项目',
           },
           {to: '/blog', label: '博客', position: 'left'},
+          {to: '/friends', label: '友链', position: 'right'},
           {
             href: 'https://github.com/lailai0916/lailai0916.github.io',
             // label: 'GitHub',
@@ -202,7 +203,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} lailai0916. Built with <a href="https://docusaurus.io" target="_blank">Docusaurus</a>.`,
+        copyright: `Copyright © ${new Date().getFullYear()} lailai0916. Built with <a href="https://docusaurus.io" target="_blank">Docusaurus</a>. <br> Footer text`,
       },
       prism: {
         theme: prismThemes.github,
