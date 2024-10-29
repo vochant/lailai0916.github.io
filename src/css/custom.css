@@ -207,7 +207,7 @@ pre, code {
   display: inline-flex;
 }
 
-.codeBlock_src-pages-friends-styles-module {
+.friends-link-page  .theme-code-block {
   float: left;
   font: inherit;
   min-width: 100%;
@@ -215,6 +215,3 @@ pre, code {
   text-align: left;
 }
 
-.friends-code-block {
-
-}
