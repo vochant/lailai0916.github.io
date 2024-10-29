@@ -9,7 +9,7 @@ import { motion } from 'framer-motion'
 import styles from './styles.module.css'
 
 const TITLE = '友链'
-const DESCRIPTION = '有很多良友，胜于有很多财富。'
+const DESCRIPTION = '财富易得，知己难求。'
 const ADD_FRIEND_URL = 'https://github.com/kuizuo/blog/edit/main/data/friends.tsx'
 const SITE_INFO = `
 title: '愧怍'

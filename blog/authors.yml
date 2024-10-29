@@ -1,7 +1,6 @@
 lailai:
   name: lailai
   title: Blogger
-  description: 光锥之内，就是命运。
   image_url: /img/avatar/lailai.png
   socials:
     x: lailai0x394
@@ -12,7 +11,6 @@ lailai:
 sintle:
   name: sintle
   title: 星之彩
-  description: 人类最古老而强大的情感是恐惧，而最古老而强烈的恐惧来源于未知。
   image_url: /img/avatar/sintle.png
   socials:
     x: sintle2010
