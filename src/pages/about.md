@@ -14,7 +14,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 <div style={{maxWidth: '65ch', margin: "auto"}}>
 # 你好，我是 lailai! 👋
 
-- <p className="inline-flex gap-1">👨‍💻 全网同名愧怍(Kuizuo)，头像[酷乐](https://baike.baidu.com/item/%E9%85%B7%E4%B9%90/18058703) <img src="/img/logo.webp" width="26" heigth="26" className="rounded-full" /></p>
+- <p className="inline-flex gap-1">👨‍💻 全网同名愧怍(Kuizuo)，头像[酷乐](https://baike.baidu.com/item/%E9%85%B7%E4%B9%90/18058703) <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
 
 - 🧑 一个刚本科毕业的大学生🐂🐴，现居福州。
 
@@ -50,23 +50,11 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ### 我的设备
 
-- MacBook Pro M2 14 (买完 3 个月后, 苹果出 M3 了...)
-
-- iPhone 16 
-
-- Xiaomi MIX Fold 2 (折叠屏真的很拉，别买)
-
-- Google Pixel 4XL
-
-- Xiaomi Watch S2 / Apple Watch SE
-
-- 米家显示器挂灯 (买过最实用的设备)
-
-- 台式机 (AMD 5900X + RX 6750 GRE + 64G + 2TB)
-
-- ⌨️ Nuphy Air75 V2
-
-- 🖱 罗技 MX Master 3
+- iPhone 13
+- iPad Pro (M1)
+- MacBook Pro (M3 Max)
+- AirPods Pro 2
+- Logitech G PRO X SUPERLIGHT 2
 
 ### 我会什么
 
