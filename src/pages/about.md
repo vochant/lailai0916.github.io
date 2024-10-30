@@ -1,5 +1,5 @@
 ---
-id: about
+id: abouts
 title: 自我介绍
 hide_table_of_contents: true
 ---
