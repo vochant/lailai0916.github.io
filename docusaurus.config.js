@@ -216,6 +216,9 @@ const config = {
       docs: {
         sidebar: {hideable: true},
       },
+      blog: {
+        sidebar: {hideable: true},
+      },
     }),
 
 
