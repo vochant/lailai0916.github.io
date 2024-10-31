@@ -16,12 +16,12 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- iPhone 13 <img src="/img/icon/iPhone.svg" width="50" height="50">
-- iPad Pro (M1) <img src="/img/icon/iPad.svg" width="50" height="50">
-- MacBook Pro (M3 Max) <img src="/img/icon/MacBook.svg" width="50" height="50">
-- AirPods Pro 2 <img src="/img/icon/AirPods.svg" width="50" height="50">
-- iPod shuffle 4 <img src="/img/icon/iPod.svg" width="50" height="50">
-- Logitech G PRO X SUPERLIGHT 2 <img src="/img/icon/Mouse.svg" width="50" height="50">
+- iPhone 13 <img src="/img/icon/iPhone.svg" width="50" height="50" alt="iPhone" />
+- iPad Pro (M1) <img src="/img/icon/iPad.svg" width="50" height="50" alt="iPad" />
+- MacBook Pro (M3 Max) <img src="/img/icon/MacBook.svg" width="50" height="50" alt="MacBook" />
+- AirPods Pro 2 <img src="/img/icon/AirPods.svg" width="50" height="50" alt="AirPods" />
+- iPod shuffle 4 <img src="/img/icon/iPod.svg" width="50" height="50" alt="iPod" />
+- Logitech G PRO X SUPERLIGHT 2 <img src="/img/icon/Mouse.svg" width="50" height="50" alt="Mouse" />
 
 ## 联系方式
 
