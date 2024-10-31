@@ -12,7 +12,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 # 你好，我是 lailai! 👋
 
-- <p className="inline-flex gap-1">👨‍💻 全网同名愧怍(Kuizuo)，头像[酷乐](https://baike.baidu.com/item/%E9%85%B7%E4%B9%90/18058703) <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
+- <p className="inline-flex gap-1">👨‍💻 网名 lailai，头像 <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
 
 - 🧑 一个刚本科毕业的大学生🐂🐴，现居福州。
 
