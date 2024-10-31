@@ -102,9 +102,21 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ---
 
+## 赞助
+
+:::tip
+
+欢迎大家赞助我的项目，您的支持将帮助我持续创作更多有价值的内容！
+
+:::
+
+|               支付宝               |              微信支付              |           QQ支付           |
+| :--------------------------------: | :--------------------------------: | :------------------------: |
+| ![Alipay](/img/QR-code/Alipay.svg) | ![WeChat](/img/QR-code/WeChat.svg) | ![QQ](/img/QR-code/QQ.svg) |
+
 感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
 
-> **既然都看到这了，不妨留下你的评论。**
+既然都看到这了，不妨留下你的评论。
 
 <GiscusComponent />
 
