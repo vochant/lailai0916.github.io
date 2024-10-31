@@ -1,6 +1,6 @@
 ---
 title: 关于
-hide_table_of_contents: true
+#hide_table_of_contents: true
 ---
 
 import { Icon } from '@iconify/react'
