@@ -47,5 +47,5 @@ export type Friend = {
   title: string
   description: string
   website: string
-  avatar?: string
+  avatar: string
 }
