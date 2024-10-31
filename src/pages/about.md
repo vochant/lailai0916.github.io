@@ -42,8 +42,6 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
   <a href={social.email.href} target="_blank">hi@kuizuo.cn</a>
 </p>
 
----
-
 ## 赞助
 
 :::tip
