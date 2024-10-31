@@ -12,17 +12,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 # 你好，我是 lailai! 👋
 
-- <p className="inline-flex gap-1">👨‍💻 网名 lailai，头像 <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
-
-- 🧑 一个刚本科毕业的大学生🐂🐴，现居福州。
-
-- 🐛 曾写过两年的易语言+爬虫，在此期间接触了[自动化和逆向工程](/blog/2020-year-end-summary/)，现在主攻 JS/TS 全栈开发，立志成为一名全栈工程师。
-
-- 🤯 酷爱折腾，有极强的⾃我学习能⼒与问题解决能⼒，也有很重的代码洁癖。
-
-- 🎮 自从游戏账户(QQ)被封，让我成功戒掉了游戏瘾，摆脱了网瘾少年的身份。
-
-- 💡 我通常会将我的学习过程总结为项目或博客文章的形式，并乐意与他人分享。当其他人学习该技术时，可以参照我的项目或文章，我认为这非常有意义。
+- 网名 lailai，头像 <p><img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
 
 ## 我的编程之旅
 
