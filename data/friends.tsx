@@ -35,6 +35,12 @@ export const Friends: Friend[] = [
     website: 'https://www.luogu.com.cn/user/482610',
     avatar: '/img/avatar/cefqwq.png',
   },
+  {
+    title: 'LaDeX',
+    description: 'Ciallo～(∠・ω< )⌒★',
+    website: 'https://www.luogu.com.cn/user/431658',
+    avatar: '/img/avatar/ladex.png',
+  },
 ]
 
 export type Friend = {
