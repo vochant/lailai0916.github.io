@@ -12,23 +12,19 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 # 你好，我是 lailai! 👋
 
-- 网名 lailai，头像 <p><img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" /></p>
+- 网名 lailai，头像 <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" />
 
 ## 我的编程之旅
 
-我与计算机结识较晚，高考结束我才拥有第一台笔记本电脑。我的第一门编程语言是[易语言](/blog/easy-language)，我学习到了外挂、逆向破解、注册机(批量)、网络协议(偏加密分析和爬虫向)、自动化脚本等技术。后来编写过一个对大学生友好的[软件](https://kuizuo.cn/blog/chaoxing-helper)被厦门某工作室看到，于是选择休学一同合作创业。复学重返校园，期间发生了些变故，导致我的技术栈转换，[从逆向工程转为 Web 全栈开发](https://kuizuo.cn/blog/2022-year-end-summary)。
 
-对易语言失去了新鲜感的我，需要一门更为强大的技术来支撑我编写体验友好的应用供客户使用，在逆向学习中积累了一定的 JS 知识，这也是我为什么会选择前端的原因。依靠跨平台解决方案，Web 网站、桌面端/移动端应用、小程序等应用都不在话下。
-
-或许是因为学习易语言的因素，我走的全是野路子，我并未系统性的学习过 CS 知识。我对编程知识的理解来源于自我实践、不断折腾的过程当中。
 
 ## 兴趣爱好
 
-- **手指极限** 入坑长达 8 年(现已退坑)，如转笔、魔方、花切等有关手指旋转的都能够杂耍一番, 现在偶尔还会转转卡片/手机。我不擅长录制，因此没留下多少[素材](/videos)。
 
-- **电音迷** 歌单只有电音，也只听电音。戴上耳机，沉浸在无限律动之中。有生之年定要制作首电子音乐。
 
-- **编程开发** 将想法付诸实践, 享受创造的乐趣。
+## 我会什么
+
+
 
 ## 我的设备
 
@@ -37,28 +33,6 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 - MacBook Pro (M3 Max)
 - AirPods Pro 2
 - Logitech G PRO X SUPERLIGHT 2
-
-## 我会什么
-
-- 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
-
-- Window/Andriod 自动化脚本、RPA
-
-- 爬虫 / 协议复现 (我更偏向于直接抓包，而不是自动化脚本，更愿意用 ts 而非 python)
-
-- 代码反混淆 / 逆向分析 (网页 js 乱杀，安卓止步 so 层，ios 打扰了)
-
-- Chrome 扩展程序 / Vscode 插件 (写个高级点的 demo 应该没问题)
-
-- Electron (曾经写过但很久没写了)
-
-- React Native (能够开发移动端偏内容项目)
-
-- 小程序 (能写但不想写，因为开发体验很差，特指 uni-app)
-
-- Web 全栈开发 (next.js 全栈开发与 nest.js 后端开发)
-
-- AI 应用开发 (基于 [AI SDK](https://sdk.vercel.ai/) + [langchian.js](https://js.langchain.com) )
 
 ## 联系方式
 
