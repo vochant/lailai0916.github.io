@@ -106,9 +106,9 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 | :--------------------------------: | :--------------------------------: |
 | ![Alipay](/img/QR-code/Alipay.svg) | ![WeChat](/img/QR-code/WeChat.svg) |
 
-感谢您读到这里，希望这些分享对您有帮助！
+感谢您的阅读，希望这些分享对您有帮助！
 
-如果有任何疑问，欢迎随时咨询，我会尽量回复。
+如有疑问，欢迎咨询，我会尽力回复。期待您的评论！
 
 <GiscusComponent />
 
