@@ -14,7 +14,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- iPhone 13
+- ![Alipay](/img/icon/iphone.png) iPhone 13
 - iPad Pro (M1)
 - MacBook Pro (M3 Max)
 - AirPods Pro 2
