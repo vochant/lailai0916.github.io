@@ -14,11 +14,11 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- ![Alipay](/img/icon/iphone.svg) iPhone 13
-- iPad Pro (M1)
-- MacBook Pro (M3 Max)
-- AirPods Pro 2
-- Logitech G PRO X SUPERLIGHT 2
+- ![iPhone](/img/icon/iPhone.svg) iPhone 13
+- ![iPad](/img/icon/iPad.svg) iPad Pro (M1)
+- ![MacBook](/img/icon/MacBook.svg) MacBook Pro (M3 Max)
+- ![AirPods](/img/icon/AirPods.svg) AirPods Pro 2
+- ![Mouse](/img/icon/Mouse.svg) Logitech G PRO X SUPERLIGHT 2
 
 ## 联系方式
 
