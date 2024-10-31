@@ -15,31 +15,31 @@ export const Friends: Friend[] = [
     title: 'YunLuo',
     description: '这是个人',
     website: 'https://www.luogu.com.cn/user/765961',
-    avatar: '/img/avatar/yunluo.png',
+    avatar: '/img/avatar/YunLuo.png',
   },
   {
     title: 'AKorz',
     description: 'face the sin, save the e.g.o.',
     website: 'https://www.luogu.com.cn/user/716602',
-    avatar: '/img/avatar/akorz.png',
+    avatar: '/img/avatar/AKorz.png',
   },
   {
-    title: 'Mirekintocn',
+    title: 'Mirekintoc',
     description: 'Zako Chuugaku Sannensei OIer & Personal Developer',
-    website: 'https://www.luogu.com.cn/user/556000',
-    avatar: '/img/avatar/mirekintoc.png',
+    website: 'https://vochant.github.io',
+    avatar: '/img/avatar/Mirekintoc.png',
   },
   {
     title: 'CEFqwq',
     description: '代词使用她',
     website: 'https://www.luogu.com.cn/user/482610',
-    avatar: '/img/avatar/cefqwq.png',
+    avatar: '/img/avatar/CEFqwq.png',
   },
   {
     title: 'LaDeX',
     description: 'Ciallo～(∠・ω< )⌒★',
     website: 'https://www.luogu.com.cn/user/431658',
-    avatar: '/img/avatar/ladex.png',
+    avatar: '/img/avatar/LaDeX.png',
   },
 ]
 
