@@ -24,13 +24,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 - 💡 我通常会将我的学习过程总结为项目或博客文章的形式，并乐意与他人分享。当其他人学习该技术时，可以参照我的项目或文章，我认为这非常有意义。
 
-### 名字由来
-
-**愧怍**，有愧疚/惭愧之意😔。也是本人使用此名所想表达的意思。
-
-我曾因某些错误的做法而感到自责苦恼，希望这个名字不断激励自我、反省过往，不再辜负我自己所经历的那么多事情。
-
-### 我的编程之旅(2 年逆向 + 3 年 Web)
+## 我的编程之旅
 
 我与计算机结识较晚，高考结束我才拥有第一台笔记本电脑。我的第一门编程语言是[易语言](/blog/easy-language)，我学习到了外挂、逆向破解、注册机(批量)、网络协议(偏加密分析和爬虫向)、自动化脚本等技术。后来编写过一个对大学生友好的[软件](https://kuizuo.cn/blog/chaoxing-helper)被厦门某工作室看到，于是选择休学一同合作创业。复学重返校园，期间发生了些变故，导致我的技术栈转换，[从逆向工程转为 Web 全栈开发](https://kuizuo.cn/blog/2022-year-end-summary)。
 
@@ -38,7 +32,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 或许是因为学习易语言的因素，我走的全是野路子，我并未系统性的学习过 CS 知识。我对编程知识的理解来源于自我实践、不断折腾的过程当中。
 
-### 兴趣爱好
+## 兴趣爱好
 
 - **手指极限** 入坑长达 8 年(现已退坑)，如转笔、魔方、花切等有关手指旋转的都能够杂耍一番, 现在偶尔还会转转卡片/手机。我不擅长录制，因此没留下多少[素材](/videos)。
 
@@ -46,7 +40,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 - **编程开发** 将想法付诸实践, 享受创造的乐趣。
 
-### 我的设备
+## 我的设备
 
 - iPhone 13
 - iPad Pro (M1)
@@ -54,7 +48,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 - AirPods Pro 2
 - Logitech G PRO X SUPERLIGHT 2
 
-### 我会什么
+## 我会什么
 
 - 易语言程序 (能写但不想写，因为开发体验很差，我会考虑用其他技术平替)
 
@@ -76,7 +70,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 - AI 应用开发 (基于 [AI SDK](https://sdk.vercel.ai/) + [langchian.js](https://js.langchain.com) )
 
-### 联系方式
+## 联系方式
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:github-line" width="20" heigth="20" />
@@ -98,15 +92,13 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
   <a href={social.email.href} target="_blank">hi@kuizuo.cn</a>
 </p>
 
-
-
 ---
 
 ## 赞助
 
 :::tip
 
-欢迎大家赞助我的项目，您的支持将帮助我持续创作更多有价值的内容！
+欢迎支持我的网站，您的赞助将帮助我持续创作更多有价值的内容！
 
 :::
 
@@ -114,9 +106,9 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 | :--------------------------------: | :--------------------------------: |
 | ![Alipay](/img/QR-code/Alipay.svg) | ![WeChat](/img/QR-code/WeChat.svg) |
 
-感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
+感谢您读到这里，希望这些分享对您有帮助！
 
-既然都看到这了，不妨留下你的评论。
+如果有任何疑问，欢迎随时咨询，我会尽量回复。
 
 <GiscusComponent />
 
