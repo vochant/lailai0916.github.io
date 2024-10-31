@@ -12,6 +12,8 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 # 你好，我是 lailai! 👋
 
+## 兴趣爱好
+
 ## 我的设备
 
 - ![iPhone](/img/icon/iPhone.svg) iPhone 13
