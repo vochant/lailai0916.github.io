@@ -20,6 +20,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 - iPad Pro (M1) ![iPad](/img/icon/iPad.svg)
 - MacBook Pro (M3 Max) ![MacBook](/img/icon/MacBook.svg)
 - AirPods Pro 2 ![AirPods](/img/icon/AirPods.svg)
+- iPod shuffle 4 ![iPod](/img/icon/iPod.svg)
 - Logitech G PRO X SUPERLIGHT 2 ![Mouse](/img/icon/Mouse.svg)
 
 ## 联系方式
