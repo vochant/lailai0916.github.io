@@ -16,24 +16,12 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/iPhone.svg" alt="iPhone" style="max-width: 100%; max-height: 100%;">
-  </div> iPhone 13
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/iPad.svg" alt="iPad" style="max-width: 100%; max-height: 100%;">
-  </div> iPad Pro (M1)
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/MacBook.svg" alt="MacBook" style="max-width: 100%; max-height: 100%;">
-  </div> MacBook Pro (M3 Max)
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/AirPods.svg" alt="AirPods" style="max-width: 100%; max-height: 100%;">
-  </div> AirPods Pro 2
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/iPod.svg" alt="iPod" style="max-width: 100%; max-height: 100%;">
-  </div> iPod shuffle 4
-- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
-    <img src="/img/icon/Mouse.svg" alt="Mouse" style="max-width: 100%; max-height: 100%;">
-  </div> Logitech G PRO X SUPERLIGHT 2
+- <img src="/img/icon/iPhone.svg" width="24" height="24" alt="iPhone"> iPhone 13
+- <img src="/img/icon/iPad.svg" width="24" height="24" alt="iPad"> iPad Pro (M1)
+- <img src="/img/icon/MacBook.svg" width="24" height="24" alt="MacBook"> MacBook Pro (M3 Max)
+- <img src="/img/icon/AirPods.svg" width="24" height="24" alt="AirPods"> AirPods Pro 2
+- <img src="/img/icon/iPod.svg" width="24" height="24" alt="iPod"> iPod shuffle 4
+- <img src="/img/icon/Mouse.svg" width="24" height="24" alt="Mouse"> Logitech G PRO X SUPERLIGHT 2
 
 ## 联系方式
 
