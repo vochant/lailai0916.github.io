@@ -140,7 +140,7 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
 
-          {to: '/friends', label: '友链', position: 'right'},
+          {to: '/friend', label: '友链', position: 'right'},
           {to: '/about', label: '关于', position: 'right'},
 
           {
@@ -197,7 +197,7 @@ const config = {
               },
               {
                 label: '友链',
-                to: '/friends',
+                to: '/friend',
               },
               {
                 label: '关于',
