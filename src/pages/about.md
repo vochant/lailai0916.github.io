@@ -14,7 +14,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- ![Alipay](/img/icon/iphone.png) iPhone 13
+- ![Alipay](/img/icon/iphone.svg) iPhone 13
 - iPad Pro (M1)
 - MacBook Pro (M3 Max)
 - AirPods Pro 2
@@ -53,6 +53,8 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 |               支付宝               |              微信支付              |
 | :--------------------------------: | :--------------------------------: |
 | ![Alipay](/img/QR-code/Alipay.svg) | ![WeChat](/img/QR-code/WeChat.svg) |
+
+## 评论
 
 感谢您的阅读，希望这些分享对您有帮助！
 
