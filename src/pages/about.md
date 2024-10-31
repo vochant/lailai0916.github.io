@@ -16,12 +16,24 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- iPhone 13 ![iPhone](/img/icon/iPhone.svg)
-- iPad Pro (M1) ![iPad](/img/icon/iPad.svg)
-- MacBook Pro (M3 Max) ![MacBook](/img/icon/MacBook.svg)
-- AirPods Pro 2 ![AirPods](/img/icon/AirPods.svg)
-- iPod shuffle 4 ![iPod](/img/icon/iPod.svg)
-- Logitech G PRO X SUPERLIGHT 2 ![Mouse](/img/icon/Mouse.svg)
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/iPhone.svg" alt="iPhone" style="max-width: 100%; max-height: 100%;">
+  </div> iPhone 13
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/iPad.svg" alt="iPad" style="max-width: 100%; max-height: 100%;">
+  </div> iPad Pro (M1)
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/MacBook.svg" alt="MacBook" style="max-width: 100%; max-height: 100%;">
+  </div> MacBook Pro (M3 Max)
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/AirPods.svg" alt="AirPods" style="max-width: 100%; max-height: 100%;">
+  </div> AirPods Pro 2
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/iPod.svg" alt="iPod" style="max-width: 100%; max-height: 100%;">
+  </div> iPod shuffle 4
+- <div style="width: 50px; height: 50px; display: inline-block; text-align: center; vertical-align: middle;">
+    <img src="/img/icon/Mouse.svg" alt="Mouse" style="max-width: 100%; max-height: 100%;">
+  </div> Logitech G PRO X SUPERLIGHT 2
 
 ## 联系方式
 
