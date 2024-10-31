@@ -12,20 +12,6 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 # 你好，我是 lailai! 👋
 
-- 网名 lailai，头像 <img src="/img/logo.svg" width="26" heigth="26" className="rounded-full" />
-
-## 我的编程之旅
-
-
-
-## 兴趣爱好
-
-
-
-## 我会什么
-
-
-
 ## 我的设备
 
 - iPhone 13
