@@ -16,12 +16,12 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-- <img src="/img/icon/iPhone.svg" width="24" height="24" alt="iPhone" /> iPhone 13
-- <img src="/img/icon/iPad.svg" width="24" height="24" alt="iPad" /> iPad Pro (M1)
-- <img src="/img/icon/MacBook.svg" width="24" height="24" alt="MacBook" /> MacBook Pro (M3 Max)
-- <img src="/img/icon/AirPods.svg" width="24" height="24" alt="AirPods" /> AirPods Pro 2
-- <img src="/img/icon/iPod.svg" width="24" height="24" alt="iPod" /> iPod shuffle 4
-- <img src="/img/icon/Mouse.svg" width="24" height="24" alt="Mouse" />Logitech G PRO X SUPERLIGHT 2 
+- <img src="/img/icon/iPhone.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="iPhone" /> iPhone 13
+- <img src="/img/icon/iPad.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="iPad" /> iPad Pro (M1)
+- <img src="/img/icon/MacBook.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="MacBook" /> MacBook Pro (M3 Max)
+- <img src="/img/icon/AirPods.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="AirPods" /> AirPods Pro 2
+- <img src="/img/icon/iPod.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="iPod" /> iPod shuffle 4
+- <img src="/img/icon/Mouse.svg" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" alt="Mouse" /> Logitech G PRO X SUPERLIGHT 2
 
 ## 联系方式
 
