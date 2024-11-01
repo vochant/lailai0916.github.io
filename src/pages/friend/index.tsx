@@ -2,7 +2,7 @@ import CodeBlock from '@theme/CodeBlock'
 import Layout from '@theme/Layout'
 import { memo, useRef } from 'react'
 
-import { Friend, Friends } from '@site/data/friends'
+import { Friend, Friends } from '@site/data/friend'
 
 import Link from '@docusaurus/Link'
 import { motion } from 'framer-motion'
