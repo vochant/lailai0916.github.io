@@ -6,9 +6,28 @@ hide_table_of_contents: true
 import { Icon } from '@iconify/react'
 import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
-<div style={{maxWidth: '65ch', margin: "auto"}}>
+<div style={{maxWidth: '70ch', margin: "auto"}}>
 
 # 你好，我是 lailai! 👋
+
+- 我是一名来自杭州的中学生。
+- 我具备较强的自学能力和问题解决能力，同时对代码整洁有较高的要求。
+- 我会把我的学习过程总结成文章，乐于与他人分享。
+
+## 我的网名
+
+我的昵称是 lailai，但由于重名较多，注册时常常遇到困难。
+
+为了解决这个问题，我通常会在后面加上生日数字 0916，形成 lailai0916。
+
+如果 lailai0916 也被占用，我则将 0916 转换为十六进制，变成 lailai0x394。
+
+:::warning
+
+- lailai 为不翻译内容，始终以英语排印，即使它出现在非英语的语言文本中也是如此。
+- lailai 应始终小写，即使它出现在句首、段落开头或标题中。
+
+:::
 
 ## 我的设备
 
@@ -50,13 +69,13 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 ## 联系方式
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <Icon icon="ri:github-line" width="20" heigth="20" />
-  <a href="https://github.com/lailai0916" target="_blank">lailai0916</a>
+  <Icon icon="ri:phone-line" width="20" heigth="20" />
+  <a href="tel:+86 17757102577" target="_blank">+86 17757102577</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <Icon icon="ri:twitter-x-line" width="20" heigth="20" />
-  <a href="https://x.com/lailai0x394" target="_blank">lailai0x394</a>
+  <Icon icon="ri:mail-line" width="20" heigth="20" />
+  <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
@@ -65,8 +84,18 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <Icon icon="ri:mail-line" width="20" heigth="20" />
-  <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
+  <Icon icon="ri:twitter-x-line" width="20" heigth="20" />
+  <a href="https://x.com/lailai0x394" target="_blank">lailai0x394</a>
+</p>
+
+<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
+  <Icon icon="ri:linkedin-line" width="20" heigth="20" />
+  <a href="https://www.linkedin.com/in/lailai0916" target="_blank">lailai0916</a>
+</p>
+
+<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
+  <Icon icon="ri:github-line" width="20" heigth="20" />
+  <a href="https://github.com/lailai0916" target="_blank">lailai0916</a>
 </p>
 
 ## 赞助

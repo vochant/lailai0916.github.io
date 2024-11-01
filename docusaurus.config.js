@@ -174,7 +174,7 @@ const config = {
             items: [
               {
                 label: 'QQ',
-                href: 'http://wpa.qq.com/msgrd?v=3&uin=11548585&site=qq&menu=yes',
+                href: 'https://wpa.qq.com/msgrd?v=3&uin=11548585&site=qq&menu=yes',
               },
               {
                 label: '洛谷',
