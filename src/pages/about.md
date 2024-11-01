@@ -17,7 +17,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 ## 我的设备
 
 <p>
-  <img src="/img/icon/iPhone.svg" alt="iPhone" style="width: 30px; height: auto;" />
+  <img src="/img/icon/iPhone.svg" width="30" height="30" alt="iPhone" />
   iPhone 13
 </p>
 
