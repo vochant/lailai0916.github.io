@@ -13,7 +13,7 @@ import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'lailai\'s Blog',
+  title: 'lailai\'s Home',
   tagline: '光锥之内，就是命运。',
   favicon: 'img/favicon.ico',
 
@@ -31,7 +31,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lailai0916', // Usually your GitHub org/user name.
-  projectName: 'lailai\'s Blog', // Usually your repo name.
+  projectName: 'lailai\'s Home', // Usually your repo name.
   trailingSlash: false,
 
 
@@ -111,7 +111,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/logo.svg',
       navbar: {
-        title: 'lailai\'s Blog',
+        title: 'lailai\'s Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
