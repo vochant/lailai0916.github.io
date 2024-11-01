@@ -16,7 +16,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-<p>
+<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <img src="/img/icon/iPhone.svg" width="30" height="30" alt="iPhone" />
   iPhone 13
 </p>
@@ -40,7 +40,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
   <a href="https://twitter.com/kuizuo" target="_blank">kuizuo</a>
 </p>
 
-<p style={{ display: 'flex', align-items: 'center', gap: '0.5rem' }}>
+<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:mail-open-line" width="20" heigth="20" />
   <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
 </p>
