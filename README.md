@@ -1,4 +1,6 @@
-# lailai's Home
+<p align="center"><img src="static/img/logo.svg"></p>
+
+<h1 align="center">lailai's Home</h1>
 
 本项目使用 [Docusaurus](https://docusaurus.io/) 构建，项目托管于 [GitHub](https://github.com/lailai0916/lailai0916.github.io).
 

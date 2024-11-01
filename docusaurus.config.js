@@ -215,7 +215,7 @@ const config = {
       },
       announcementBar: {
         id: 'announcement',
-        content: '👻 万圣节快乐！🎃',
+        content: '👻 <b>万圣节快乐！</b> 🎃',
         backgroundColor: '#fffbcc',
         textColor: '#091E42',
         isCloseable: true,
