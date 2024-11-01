@@ -110,6 +110,9 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/logo.svg',
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'lailai\'s Home',
         logo: {
