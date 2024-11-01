@@ -5,7 +5,6 @@ hide_table_of_contents: true
 
 import { Icon } from '@iconify/react'
 
-import social from '@site/data/social'
 import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 <div style={{maxWidth: '65ch', margin: "auto"}}>
