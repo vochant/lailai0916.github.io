@@ -210,11 +210,11 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      docs: {
-        sidebar: {hideable: true},
-      },
       colorMode: {
         respectPrefersColorScheme: true,
+      },
+      docs: {
+        sidebar: {hideable: true},
       },
       announcementBar: {
         id: 'announcement',

@@ -37,7 +37,6 @@ export default function GiscusComponent() {
             emitMetadata="0"
             inputPosition="bottom"
             theme={colorMode}
-            // lang="en"
             lang="zh-CN"
             loading="lazy"
             // crossorigin="anonymous"
