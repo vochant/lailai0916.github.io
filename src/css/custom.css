@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -35,9 +33,6 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-
-
-
 .header-github-link::before {
   content: '';
   width: 24px;
@@ -53,11 +48,6 @@
   background-color: var(--ifm-navbar-link-hover-color);
 }
 
-/* 设置代码块的 Tab 宽度为 4 个空格 */
 pre, code {
   tab-size: 4;
 }
-
-
-
-

@@ -4,7 +4,6 @@ hide_table_of_contents: true
 ---
 
 import { Icon } from '@iconify/react'
-
 import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 <div style={{maxWidth: '65ch', margin: "auto"}}>
@@ -15,32 +14,55 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 ## 我的设备
 
-<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <img src="/img/icon/iPhone.svg" width="30" height="30" alt="iPhone" />
-  iPhone 13
+<p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+  <div style={{ width: '24px', height: '24px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+    <img src="/img/icon/MacBook.svg" style={{ objectFit: 'contain' }} />
+  </div>
+  <div>MacBook Pro 16英寸 (M3 Max)</div>
 </p>
 
-- <img src="/img/icon/iPhone.svg" width="30" height="30" alt="iPhone" /> iPhone 13
-- <img src="/img/icon/iPad.svg" width="30" height="30" alt="iPad" /> iPad Pro (M1)
-- <img src="/img/icon/MacBook.svg" width="30" height="30" alt="MacBook" /> MacBook Pro (M3 Max)
-- <img src="/img/icon/AirPods.svg" width="30" height="30" alt="AirPods" /> AirPods Pro 2
-- <img src="/img/icon/iPod.svg" width="30" height="30" alt="iPod" /> iPod shuffle 4
-- <img src="/img/icon/Mouse.svg" width="30" height="30" alt="Mouse" /> Logitech G PRO X SUPERLIGHT 2
+<p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+  <div style={{ width: '24px', height: '24px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+    <img src="/img/icon/iPad.svg" style={{ objectFit: 'contain' }} />
+  </div>
+  <div>iPad Pro 11英寸 (M1)</div>
+</p>
+
+<p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+  <div style={{ width: '24px', height: '24px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+    <img src="/img/icon/iPhone.svg" style={{ objectFit: 'contain' }} />
+  </div>
+  <div>iPhone 13</div>
+</p>
+
+<p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+  <div style={{ width: '24px', height: '24px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+    <img src="/img/icon/AirPods.svg" style={{ objectFit: 'contain' }} />
+  </div>
+  <div>AirPods Pro 2</div>
+</p>
+
+<p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+  <div style={{ width: '24px', height: '24px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+    <img src="/img/icon/Mouse.svg" style={{ objectFit: 'contain' }} />
+  </div>
+  <div>Logitech G PRO X SUPERLIGHT 2</div>
+</p>
 
 ## 联系方式
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:github-line" width="20" heigth="20" />
-  <a href="https://github.com/kuizuo" target="_blank">kuizuo</a>
+  <a href="https://github.com/lailai0916" target="_blank">lailai0916</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:twitter-x-line" width="20" heigth="20" />
-  <a href="https://twitter.com/kuizuo">kuizuo</a>
+  <a href="https://x.com/lailai0x394" target="_blank">lailai0x394</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <Icon icon="ri:mail-open-line" width="20" heigth="20" />
+  <Icon icon="ri:mail-line" width="20" heigth="20" />
   <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
 </p>
 

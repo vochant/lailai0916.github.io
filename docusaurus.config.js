@@ -113,7 +113,7 @@ const config = {
       navbar: {
         title: 'lailai\'s Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'lailai\'s Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -139,10 +139,8 @@ const config = {
             to: '/docs/项目',
           },
           {to: '/blog', label: '博客', position: 'left'},
-
           {to: '/friend', label: '友链', position: 'right'},
           {to: '/about', label: '关于', position: 'right'},
-
           {
             href: 'https://github.com/lailai0916/lailai0916.github.io',
             // label: 'GitHub',
