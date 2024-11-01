@@ -110,9 +110,6 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/logo.svg',
-      colorMode: {
-        respectPrefersColorScheme: true,
-      },
       navbar: {
         title: 'lailai\'s Home',
         logo: {
@@ -184,8 +181,8 @@ const config = {
                 href: 'https://www.luogu.com.cn/user/455474',
               },
               {
-                label: 'Telegram',
-                href: 'https://t.me/lailai0916',
+                label: 'GitHub',
+                href: 'https://github.com/lailai0916',
               },
             ],
           },
@@ -216,11 +213,14 @@ const config = {
       docs: {
         sidebar: {hideable: true},
       },
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       announcementBar: {
         id: 'announcement',
-        content: '👻 <b>万圣节快乐！</b> 🎃',
+        content: '👻 <b>万圣节快乐!</b> 🎃',
         backgroundColor: '#fffbcc',
-        textColor: '#091E42',
+        textColor: '000000',
         isCloseable: true,
       },
     }),

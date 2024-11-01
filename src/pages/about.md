@@ -62,6 +62,11 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
+  <Icon icon="ri:telegram-line" width="20" heigth="20" />
+  <a href="https://t.me/lailai0916" target="_blank">lailai0x394</a>
+</p>
+
+<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:mail-line" width="20" heigth="20" />
   <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
 </p>
