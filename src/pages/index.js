@@ -28,12 +28,23 @@ function HomepageHeader() {
   );
 }
 
+function TopBanner() {
+  return (
+    <div className={styles.topBanner}>
+      <div className={styles.topBannerTitle}>
+        {'🎉\xa0'}
+        <Link to={`/about`} className={styles.topBannerTitleText}>lailai's Home</Link>
+        {'\xa0🥳'}
+      </div>
+    </div>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`Hello from lailai`}
-      description="Description will go into a meta tag in <head />">
+    <Layout title={`Hello from lailai`}>
+      <TopBanner />
       <HomepageHeader />
       <main>
         <HomepageFeatures />
