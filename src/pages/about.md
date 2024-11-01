@@ -32,22 +32,17 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:github-line" width="20" heigth="20" />
-  <a href={social.github.href} target="_blank">kuizuo</a>
+  <a href="https://github.com/kuizuo" target="_blank">kuizuo</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:twitter-x-line" width="20" heigth="20" />
-  <a href={social.x.href} target="_blank">kuizuo</a>
-</p>
-
-<p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
-  <Icon icon="ri:wechat-2-line" width="20" heigth="20" />
-  <a href={social.wx.href} target="_blank">kuizuo12</a>
+  <a href="https://twitter.com/kuizuo" target="_blank">kuizuo</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:mail-open-line" width="20" heigth="20" />
-  <a href={social.email.href} target="_blank">hi@kuizuo.cn</a>
+  <a href="mailto:lailai0x394@gmail.com" target="_blank">lailai0x394@gmail.com</a>
 </p>
 
 ## 赞助
