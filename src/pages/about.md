@@ -36,7 +36,7 @@ import GiscusComponent from "@site/src/components/giscus/giscus.tsx";
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
   <Icon icon="ri:twitter-x-line" width="20" heigth="20" />
-  <a href="https://twitter.com/kuizuo" target="_blank">kuizuo</a>
+  <a href="https://twitter.com/kuizuo">kuizuo</a>
 </p>
 
 <p style={{ display: 'flex', 'align-items': 'center', gap: '0.5rem' }}>
