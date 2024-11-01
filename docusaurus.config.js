@@ -213,6 +213,13 @@ const config = {
       docs: {
         sidebar: {hideable: true},
       },
+      announcementBar: {
+        id: 'announcement',
+        content: '👻 万圣节快乐！🎃',
+        backgroundColor: '#fffbcc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
     }),
 
 
