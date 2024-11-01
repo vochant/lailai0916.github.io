@@ -218,7 +218,7 @@ const config = {
         content: '👻 万圣节快乐！🎃',
         backgroundColor: '#fffbcc',
         textColor: '#091E42',
-        isCloseable: false,
+        isCloseable: true,
       },
     }),
 
@@ -239,7 +239,6 @@ const config = {
         // language: ["en", "zh"],
         // language:  "zh",
         // ```
-
 
         language: ["en", "zh"], // 搜索语言
         indexDocs: true, // 是否对docs进行索引
