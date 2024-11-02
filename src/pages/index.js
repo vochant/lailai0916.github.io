@@ -33,7 +33,9 @@ function TopBanner() {
     <div className={styles.topBanner}>
       <div className={styles.topBannerTitle}>
         {'🎉\xa0'}
-        <Link to={`/about`} className={styles.topBannerTitleText}>lailai's Home</Link>
+        <Link className={styles.topBannerTitleText} to={`/about`}>
+          lailai's Home
+        </Link>
         {'\xa0🥳'}
       </div>
     </div>
